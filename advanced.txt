@@ -1,2 +1,4 @@
 git cofig --global user.name "your name"
 git config --global user.email "your mail id"
+git list : list all history
+git brach :list all branches
